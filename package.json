@@ -30,7 +30,8 @@
     "onLanguage:css",
     "onLanguage:less",
     "onLanguage:postcss",
-    "onLanguage:scss"
+    "onLanguage:scss",
+    "onLanguage:vue"
   ],
   "main": "index.js",
   "contributes": {
